@@ -14,6 +14,12 @@
     </extensions>
 
     <actions>
-        <!-- Add your actions here -->
+        <action
+            id="SearchErrorAction"
+            class="SearchErrorAction"
+            text="Stackoverflow search"
+            description="Stackoverflow search what you want">
+            <add-to-group group-id="ConsoleEditorPopupMenu" anchor="first"/>
+        </action>
     </actions>
 </idea-plugin>
