@@ -1,12 +1,9 @@
 <idea-plugin>
     <id>org.example.google_search_plugin</id>
-    <name>Plugin display name here</name>
-    <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">YourCompany</vendor>
+    <name>Error google search</name>
+    <vendor email="support@mycompany.com" url="http://www.mycompany.com">MyCompany</vendor>
 
-    <description><![CDATA[
-    Enter short description for your plugin here.<br>
-    <em>most HTML tags may be used</em>
-    ]]></description>
+    <description>Google search if error occurs. Find error description.</description>
 
     <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
          on how to target different products -->
